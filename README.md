@@ -1,8 +1,7 @@
 ### Hi there 👋, Akhila
-#### I'm a B.tech student
 ![I'm a B.tech student](https://www.funimada.com/assets/images/cards/big/hello-12.gif)
 
-
+#### I'm a B.tech student
 I'm from Nandyal, I'm exited about learning new things,
 
 
