@@ -20,7 +20,7 @@ I'm from Nandyal, I'm exited about learning new things,
 ⚡ Fun fact: I'm funny 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='5' width ='5' >](https://github.com/akhilleshwari01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='5' width = '5' >](https://www.instagram.com/akhilaakhi_08/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='10' width ='20' >](https://github.com/akhilleshwari01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='10' width = '20' >](https://www.instagram.com/akhilaakhi_08/)  
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilleshwari01)](https://github.com/anuraghazra/github-readme-stats)
 
